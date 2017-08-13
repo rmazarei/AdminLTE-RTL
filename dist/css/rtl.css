@@ -3,7 +3,7 @@
 	margin-top: -15px !important;
 }
 /********************
-MY FIX FOR COLLAPES MENU BG (rouhollah@gmail.com)
+MY FIX FOR COLLAPSED MENU BG (rouhollah@gmail.com)
 ********************/
 .sidebar-mini.sidebar-collapse .sidebar-menu > li:hover > a > span {
     padding: 0 30px 0 0;
