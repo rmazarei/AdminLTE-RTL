@@ -2,3 +2,10 @@
 .sidebar-menu li .label, .sidebar-menu li .badge {
 	margin-top: -15px !important;
 }
+/********************
+MY FIX FOR COLLAPES MENU BG (rouhollah@gmail.com)
+********************/
+.sidebar-mini.sidebar-collapse .sidebar-menu > li:hover > a > span {
+    padding: 0 30px 0 0;
+    line-height: 50px;
+}
